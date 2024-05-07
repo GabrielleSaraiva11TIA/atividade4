@@ -1,0 +1,34 @@
+body {
+    background-color: #131518;
+}
+
+h1 {
+    color: #FF0000;
+}
+h2 {
+    color: #8B0000;
+}
+h3 {
+    color: #A52A2A;
+}
+h4 {
+    color: #A52A2A;
+}
+li {
+    color: #F0F8FF;
+}
+p {
+    color: #F0F8FF;
+}
+.topicos {
+    color: #8B0000;
+}
+
+.site {
+    max-width: 412px;
+    margin-inline: auto;
+    margin-block: 64px;
+    padding: 32px;
+    border-radius: 30px;
+    background-color: #262E38;
+}
