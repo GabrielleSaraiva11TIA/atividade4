@@ -1,3 +1,4 @@
+    *{
 body {
     background-color: #131518;
 }
@@ -20,8 +21,13 @@ li {
 p {
     color: #F0F8FF;
 }
+
+header {
+ background-color:#4F4F4F;
+}
+
 .topicos {
-    color: #8B0000;
+    color: #8B0000;yt
 }
 
 .site {
@@ -32,3 +38,4 @@ p {
     border-radius: 30px;
     background-color: #262E38;
 }
+    }
